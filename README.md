@@ -46,35 +46,7 @@
 
 2.1 REST API запрос - GET /api/partners/stores
 
-2.2 Ответ в формате json:
- {
-  "stores": [
-    {
-      "id": 1,
-      "name": "METRO",
-      "delivery_info": "Ближайшая доставка сегодня 21:00–23:00",
-      "link": "https://metro.ru"
-    },
-    {
-      "id": 2,
-      "name": "Ашан",
-      "delivery_info": "Ближайшая доставка сегодня 18:00–20:00",
-      "link": "https://ashan.ru"
-    },
-    {
-      "id": 3,
-      "name": "ВкусВилл",
-      "delivery_info": "Быстрая доставка от 20 до 60 минут",
-      "link": "https://vkusvill.ru"
-    },
-    {
-      "id": 4,
-      "name": "ВИКТОРИЯ",
-      "delivery_info": "Ближайшая доставка сегодня 17:00–19:00",
-      "link": "https://victoria.ru"
-    }
-  ]
-}
+2.2 Ответ в формате json - example.json(в репозитории этого проекта)
 
 
 Задание 3: архитектура
